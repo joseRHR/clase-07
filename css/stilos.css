@@ -1,0 +1,25 @@
+h1,h2{
+    text-align: center;
+    color: rgb(180, 133, 45);
+}
+table{
+    width: 50%;
+    margin: auto; /*center*/
+}
+input,select,textarea{
+    border-radius: 5px;
+    padding: 10px;
+    background-color: antiquewhite;
+    width: 300px;
+}
+button{
+    border-radius: 5px;
+    padding: 10px;
+    width: 150px;
+    color: rgb(60, 158, 158);
+    background-color: rgb(61, 60, 60);
+}
+.origen{
+    background-color: rgb(68, 58, 43);
+    color: aliceblue;
+}
